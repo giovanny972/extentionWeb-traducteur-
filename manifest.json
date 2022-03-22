@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Traducteur",
+    "version": "0.1",
+    "action": {
+        "default_popup": "main.html"
+    },
+    "commands": {
+        "_execute_browser_action": {
+            "suggested_key": {
+                "default": "Alt+Shift+F",
+                "mac": "Alt+Shift+F"
+            }
+        }
+    }
+}

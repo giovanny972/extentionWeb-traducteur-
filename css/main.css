@@ -1,0 +1,36 @@
+body {
+  width: 250px;
+  height: 200px;
+  background: white;
+}
+.content-head {
+  height: 20px;
+  margin: 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.content-recherche {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.content-button {
+  display: flex;
+  justify-content: center;
+}
+
+.titre {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
